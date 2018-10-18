@@ -1,2 +1,2 @@
-# vbc-theme
-Drupal theme for viewfield.org.uk
+# mckinlays-theme
+Drupal theme for mckinlays.net
